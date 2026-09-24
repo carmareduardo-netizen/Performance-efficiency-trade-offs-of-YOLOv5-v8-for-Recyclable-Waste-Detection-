@@ -1,0 +1,14 @@
+# Fill/pin exact versions from the final experimental environments before archival release.
+torch
+torchvision
+ultralytics
+opencv-python
+pandas
+numpy
+matplotlib
+psutil
+thop
+roboflow
+Pillow
+imagehash
+scipy
